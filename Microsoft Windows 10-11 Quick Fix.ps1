@@ -17,7 +17,7 @@ if ((testAdmin) -eq $false)  {
 
 Clear-Host
 
-$title = "Windows 10 Quick Fix"
+$title = "Windows 10/11 Quick Fix"
 $host.UI.RawUI.WindowTitle = $title
 
 Write-Host $title
